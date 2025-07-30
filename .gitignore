@@ -213,4 +213,6 @@ building-a-deep-learning-model-that-can-lip-read/data.zip
 building-a-deep-learning-model-that-can-lip-read/checkpoints.zip
 building-a-deep-learning-model-that-can-lip-read/checkpoints
 building-a-deep-learning-model-that-can-lip-read/nicholas_model
+building-a-deep-face-detection-model/aug_data
+building-a-deep-face-detection-model/facetracker.h5
 
